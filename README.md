@@ -43,7 +43,7 @@ To use this wallet with APEX do following:
 1. Go to a directory accessible to oracle user of the operating system (In Linux)
 2. Download wallet by running: git clone https://github.com/maxapexcloud/oraclewallet
 3. Go to APEX Internal Admin > Manage Instance > Instance Settings > Wallet
-4. Type the path of the directory you downloaded wallet in (e.g. file:/home/oracle/wallet). Remember to put file: before the directory
+4. Type the path of the directory you downloaded wallet in (e.g. file:/home/oracle/oraclewallet/18c). Remember to put file: before the directory
 5. Type wallet password (default password of this wallet is manager12)
 
 
